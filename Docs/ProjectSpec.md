@@ -36,9 +36,9 @@
      - [Environment Variable](#environment-variable)
      - [Test Plan](#test-plan)
 - [Scheme Template](#scheme-template)
+- [Swift Package](#swift-package)
      - [Remote Package](#remote-package)
      - [Local Package](#local-package)
-- [Swift Package](#swift-package)
 - [Project Reference](#project-reference)
 
 ## General
